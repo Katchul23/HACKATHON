@@ -1,0 +1,402 @@
+[
+  {
+    "text": "Les chercheurs ont eux-mêmes rempli les fiches de collecte.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats ont été mesurés directement sur le terrain.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les auteurs se sont appuyés sur des rapports ministériels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Figures were drawn from both new and old datasets.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des analyses statistiques ont été réalisées sur les valeurs brutes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les échantillons ont été préparés au laboratoire.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.",
+    "label": "primaire"
+  },
+  {
+    "text": "Archived satellite images were used to assess the impact.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats ont été mesurés directement sur le terrain.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The soil samples were taken during a field campaign.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats ont été mesurés directement sur le terrain.",
+    "label": "primaire"
+  },
+  {
+    "text": "The study aggregated values from previous experiments.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Historical archives were digitized and interpreted.",
+    "label": "primaire"
+  },
+  {
+    "text": "We implemented a localized sampling strategy.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Ils ont comparé avec des archives régionales disponibles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Cette cartographie a été produite à partir de nos relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "The dataset was obtained from an earlier project and reused for comparison.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Cette cartographie a été produite à partir de nos relevés GPS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study refers to open statistics made public by the government.",
+    "label": "primaire"
+  },
+  {
+    "text": "A previous study provided much of the statistical baseline.",
+    "label": "primaire"
+  },
+  {
+    "text": "Un rapport antérieur a servi de base aux chiffres retenus.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Archived documents formed the backbone of the data.",
+    "label": "secondaire"
+  },
+  {
+    "text": "A previous study provided much of the statistical baseline.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.",
+    "label": "primaire"
+  },
+  {
+    "text": "Une méthode de codage a été appliquée aux interviews récoltées.",
+    "label": "primaire"
+  },
+  {
+    "text": "Ils ont comparé avec des archives régionales disponibles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Cette cartographie a été produite à partir de nos relevés GPS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Figures were drawn from both new and old datasets.",
+    "label": "primaire"
+  },
+  {
+    "text": "We implemented a localized sampling strategy.",
+    "label": "primaire"
+  },
+  {
+    "text": "Un logiciel propriétaire a servi à traiter les entrées du capteur.",
+    "label": "primaire"
+  },
+  {
+    "text": "External publications informed much of our approach.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les indicateurs ont été générés à partir de sources ouvertes.",
+    "label": "primaire"
+  },
+  {
+    "text": "The indicators used were adapted from prior models.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The database was built by merging several open access sources.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Une méthode de codage a été appliquée aux interviews récoltées.",
+    "label": "primaire"
+  },
+  {
+    "text": "Information was gathered through on-site sensors.",
+    "label": "primaire"
+  },
+  {
+    "text": "The study refers to open statistics made public by the government.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Previous surveys were consulted to enrich the current analysis.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les auteurs se sont appuyés sur des rapports ministériels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "primaire"
+  },
+  {
+    "text": "Measurements were taken across several regions using GPS equipment.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les auteurs se sont appuyés sur des rapports ministériels.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les chercheurs ont eux-mêmes rempli les fiches de collecte.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les tableaux ont été construits à partir de données empiriques.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tableaux ont été construits à partir de données empiriques.",
+    "label": "primaire"
+  },
+  {
+    "text": "The study aggregated values from previous experiments.",
+    "label": "primaire"
+  },
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons centralisé les données dans une interface dédiée.",
+    "label": "primaire"
+  },
+  {
+    "text": "Historical archives were digitized and interpreted.",
+    "label": "primaire"
+  },
+  {
+    "text": "The database was built by merging several open access sources.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used our own protocols to collect biometric data.",
+    "label": "primaire"
+  },
+  {
+    "text": "Figures were drawn from both new and old datasets.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used our own protocols to collect biometric data.",
+    "label": "primaire"
+  },
+  {
+    "text": "External publications informed much of our approach.",
+    "label": "secondaire"
+  },
+  {
+    "text": "They performed their own measurements alongside third-party data.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les chercheurs ont eux-mêmes rempli les fiches de collecte.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les indicateurs ont été générés à partir de sources ouvertes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des analyses statistiques ont été réalisées sur les valeurs brutes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The indicators used were adapted from prior models.",
+    "label": "primaire"
+  },
+  {
+    "text": "Sensor logs were parsed to extract behavioral metrics.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats ont été mesurés directement sur le terrain.",
+    "label": "primaire"
+  },
+  {
+    "text": "Cette base de données a été complétée par nos propres observations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study aggregated values from previous experiments.",
+    "label": "primaire"
+  },
+  {
+    "text": "Archived documents formed the backbone of the data.",
+    "label": "primaire"
+  },
+  {
+    "text": "They relied partly on academic repositories.",
+    "label": "primaire"
+  },
+  {
+    "text": "Cette base de données a été complétée par nos propres observations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Historical archives were digitized and interpreted.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Toutes les variables ont été issues de nos propres relevés.",
+    "label": "secondaire"
+  },
+  {
+    "text": "An open platform provided preliminary data layers.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data shared by collaborators supported the interpretation.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on published datasets to validate our assumptions.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les indicateurs ont été générés à partir de sources ouvertes.",
+    "label": "primaire"
+  },
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Information was gathered through on-site sensors.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les échantillons ont été préparés au laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Toutes les variables ont été issues de nos propres relevés.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "primaire"
+  },
+  {
+    "text": "They performed their own measurements alongside third-party data.",
+    "label": "primaire"
+  },
+  {
+    "text": "The soil samples were taken during a field campaign.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.",
+    "label": "primaire"
+  },
+  {
+    "text": "Previous surveys were consulted to enrich the current analysis.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Measurements were taken across several regions using GPS equipment.",
+    "label": "primaire"
+  },
+  {
+    "text": "The database was built by merging several open access sources.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Ils ont téléchargé un ensemble déjà publié.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Archived satellite images were used to assess the impact.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons mené une collecte sur plusieurs mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "External publications informed much of our approach.",
+    "label": "secondaire"
+  },
+  {
+    "text": "They performed their own measurements alongside third-party data.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des données historiques ont été exploitées sans modification.",
+    "label": "primaire"
+  },
+  {
+    "text": "Un logiciel propriétaire a servi à traiter les entrées du capteur.",
+    "label": "primaire"
+  },
+  {
+    "text": "Une méthode de codage a été appliquée aux interviews récoltées.",
+    "label": "primaire"
+  }
+]

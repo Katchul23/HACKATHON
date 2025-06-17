@@ -1,0 +1,722 @@
+[
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  }
+]

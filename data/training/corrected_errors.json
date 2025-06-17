@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "This study was reviewed and approved by the Hamilton Integrated Research Ethics Board (#14560) before recruitment and data collection.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary sources included development agency reports.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study did not involve new data collection efforts.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study aggregated values from previous experiments.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les auteurs se sont appuyés sur des rapports ministériels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The soil samples were taken during a field campaign.",
+    "label": "primaire"
+  },
+  {
+    "text": "Archived documents formed the backbone of the data.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Une enquête locale a permis de collecter des données originales.",
+    "label": "primaire"
+  },
+  {
+    "text": "The indicators used were adapted from prior models.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Un logiciel propriétaire a servi à traiter les entrées du capteur.",
+    "label": "primaire"
+  },
+  {
+    "text": "We utilized GIS layers produced in earlier projects.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données de cette étude proviennent d’un questionnaire administré à 200 personnes.",
+    "label": "primaire"
+  },
+  {
+    "text": "Archived satellite images were used to assess the impact.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study refers to open statistics made public by the government.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Un logiciel propriétaire a servi à traiter les entrées du capteur.",
+    "label": "primaire"
+  },
+  {
+    "text": "Historical archives were digitized and interpreted.",
+    "label": "secondaire"
+  }
+]
