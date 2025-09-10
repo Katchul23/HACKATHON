@@ -1,0 +1,9 @@
+const dataCitations = {
+  "-1": {
+    "citation_text": "de temps  Critère\nProduction de bois  CMT\nValeur nette\nOpportunités de\nIps typographus\nPristiphora\n\n\nFlux de trésorerie actualisés et valeur de\nliquidation après\n\n\n30 ans\nQualitative (par l'utilisateur)\nRatio hauteur-\n\ndiamètre moyen\nRatio houppier moyen\nProportion de Pinus sylvestris en surface terrière  %\n\nProportion de Picea abies en surface terrière\nHauteur dominante\nRatio hauteur-\n\ndiamètre moyen\nProportion de Pinus sylvestris en surface terrière  %\n\nProportion de Picea abies en surface terrière\nChangement d'adéquation de l'espèce (\n\ncalculé\nd'après Steiner et Lexer, 19\n\n98)\nProportion de Picea abies par surface terrière\nProportion de Picea abies par surface terrière\n\n\nProportion de décidus par surface terrière\nIndice de structure verticale (\n\nrapport entre les\n15% d'arbres les plus larges et les 15% d'\n\narbres\nles plus petits)\nFacteur de compétition du houppier (\n\nKrajicek et\nProportion de Pinus sylvestris par surface terrière  %\n\nCoût de la reforestation et coût en traitements\nd'\n\nestablissement\nQualitative\nQualitative (par type de site)\nRisques biotiques  Qualitative (par type de site)\n\nNaturalité de\nl'espèce d'\n\narbre\nDiversiyé en\nespèces d'\n\narbres\nQualitative (par type de site)\n\nDurée de révolution\nIndice de Shannon-\n\nWeaver\nIndice de structure verticale (\n\nrapport entre les\n15% d'arbres les plus larges et les 15% d'\n\narbres\nles plus petits)\n\nstructurelle\nDécomposition\nde la litière\nRatio C/\n\nN de la litière\nQualitative\n1 = coupe à blanc 2 =\n\nsans coupe à blanc\nConservation de la\nMaintien de la\nproductivité du site  CMT/LT\ne",
+    "type": "secondaire",
+    "context": "Contexte d’utilisation : de temps Critère Production de bois CMT Valeur nette Opportunités de Ips typographus Pristiphora ...",
+    "source": "Source inconnue",
+    "source_metadata": {}
+  }
+};

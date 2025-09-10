@@ -1,0 +1,17 @@
+# Placeholder for requirements.txt
+crewai
+langchain
+transformers
+openai
+pypdf
+scikit-learn
+spacy
+sentence-transformers
+pdfminer.six
+requests
+pandas
+langdetect
+nltk
+faker 
+deep-translator
+tqdm

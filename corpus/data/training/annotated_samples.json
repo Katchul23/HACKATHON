@@ -1,0 +1,2733 @@
+[
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.", 
+    "label": "secondaire"
+  },
+  {
+    "text": "Cette cartographie a été produite à partir de nos relevés GPS.", 
+    "label": "primaire"
+  },
+  {
+    "text": "The study refers to open statistics made public by the government.", 
+    "label": "primaire"
+  },
+  {"text": "Toutes les variables ont été issues de nos propres relevés.", "label": "primaire"},
+  {"text": "Archived documents formed the backbone of the data.", "label": "secondaire"},
+  {"text": "Les échantillons ont été préparés au laboratoire.", "label": "primaire"},
+  {"text": "The soil samples were taken during a field campaign.", "label": "primaire"},
+  {"text": "Historical archives were digitized and interpreted.", "label": "secondaire"},
+  {"text": "The study aggregated values from previous experiments.", "label": "secondaire"},
+  {"text": "Archived satellite images were used to assess the impact.", "label": "secondaire"},
+  {"text": "Une enquête pilote a permis de récolter les premiers indicateurs.", "label": "secondaire"},
+  {"text": "Les expérimentations ont généré de nouvelles données sur le comportement des espèces.", "label": "primaire"},
+  {"text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.", "label": "secondaire"},
+  {"text": "Historical archives were digitized and interpreted.", "label": "secondaire"},
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "This study was reviewed and approved by the Hamilton Integrated Research Ethics Board (#14560) before recruitment and data collection.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary sources included development agency reports.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study did not involve new data collection efforts.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study aggregated values from previous experiments.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les auteurs se sont appuyés sur des rapports ministériels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The soil samples were taken during a field campaign.",
+    "label": "primaire"
+  },
+  {
+    "text": "Archived documents formed the backbone of the data.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Une enquête locale a permis de collecter des données originales.",
+    "label": "primaire"
+  },
+  {
+    "text": "The indicators used were adapted from prior models.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Un logiciel propriétaire a servi à traiter les entrées du capteur.",
+    "label": "primaire"
+  },
+  {
+    "text": "We utilized GIS layers produced in earlier projects.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données de cette étude proviennent d’un questionnaire administré à 200 personnes.",
+    "label": "primaire"
+  },
+  {
+    "text": "Archived satellite images were used to assess the impact.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study refers to open statistics made public by the government.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Un logiciel propriétaire a servi à traiter les entrées du capteur.",
+    "label": "primaire"
+  },
+  {
+    "text": "Historical archives were digitized and interpreted.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été recueillies directement sur le terrain pendant l’étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons réalisé des observations sur le terrain pour établir les relevés.",
+    "label": "primaire"
+  },
+  {
+    "text": "Une enquête locale a permis de collecter des données originales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des mesures ont été prises sur les sites d’expérimentation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les chercheurs ont analysé les données issues de leurs propres expérimentations.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats sont issus d’une campagne de terrain réalisée en 2022.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données de cette étude proviennent d’un questionnaire administré à 200 personnes.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les expérimentations ont généré de nouvelles données sur le comportement des espèces.",
+    "label": "primaire"
+  },
+  {
+    "text": "Une collecte manuelle a été effectuée dans les zones rurales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données primaires ont été produites dans le cadre de cette recherche.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données proviennent de la base de données mondiale de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons utilisé les statistiques disponibles sur le site de l’INSEE.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les rapports du ministère ont été la principale source de données.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les indicateurs ont été extraits d’archives publiques existantes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chercheurs ont utilisé les données publiées par la Banque mondiale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données historiques ont été téléchargées à partir du portail national.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les bases de données de l’UNESCO ont été utilisées pour compléter l’analyse.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Cette étude réutilise des données déjà collectées par une autre équipe.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres sont issus de publications scientifiques antérieures.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons collecté les données sur le terrain pendant deux mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les statistiques ont été extraites de la base de données nationale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des observations ont été réalisées dans les villages environnants.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées proviennent du ministère de l’Environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons mesuré la qualité de l’eau à différents points du lac.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le rapport de la FAO (2022) fournit les chiffres sur la couverture forestière.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les équipes ont effectué des relevés GPS sur les parcelles forestières.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données climatiques ont été téléchargées depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tests de sol ont été effectués en laboratoire à Abidjan.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons collecté les données sur le terrain pendant deux mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les statistiques ont été extraites de la base de données nationale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des observations ont été réalisées dans les villages environnants.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées proviennent du ministère de l’Environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons mesuré la qualité de l’eau à différents points du lac.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le rapport de la FAO (2022) fournit les chiffres sur la couverture forestière.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les équipes ont effectué des relevés GPS sur les parcelles forestières.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données climatiques ont été téléchargées depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tests de sol ont été effectués en laboratoire à Abidjan.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons collecté les données sur le terrain pendant deux mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les statistiques ont été extraites de la base de données nationale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des observations ont été réalisées dans les villages environnants.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées proviennent du ministère de l’Environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons mesuré la qualité de l’eau à différents points du lac.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le rapport de la FAO (2022) fournit les chiffres sur la couverture forestière.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les équipes ont effectué des relevés GPS sur les parcelles forestières.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données climatiques ont été téléchargées depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tests de sol ont été effectués en laboratoire à Abidjan.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons collecté les données sur le terrain pendant deux mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les statistiques ont été extraites de la base de données nationale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des observations ont été réalisées dans les villages environnants.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées proviennent du ministère de l’Environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons mesuré la qualité de l’eau à différents points du lac.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le rapport de la FAO (2022) fournit les chiffres sur la couverture forestière.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les équipes ont effectué des relevés GPS sur les parcelles forestières.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données climatiques ont été téléchargées depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tests de sol ont été effectués en laboratoire à Abidjan.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons collecté les données sur le terrain pendant deux mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les statistiques ont été extraites de la base de données nationale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des observations ont été réalisées dans les villages environnants.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées proviennent du ministère de l’Environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons mesuré la qualité de l’eau à différents points du lac.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le rapport de la FAO (2022) fournit les chiffres sur la couverture forestière.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les équipes ont effectué des relevés GPS sur les parcelles forestières.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données climatiques ont été téléchargées depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tests de sol ont été effectués en laboratoire à Abidjan.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons collecté les données sur le terrain pendant deux mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les statistiques ont été extraites de la base de données nationale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des observations ont été réalisées dans les villages environnants.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées proviennent du ministère de l’Environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons mesuré la qualité de l’eau à différents points du lac.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le rapport de la FAO (2022) fournit les chiffres sur la couverture forestière.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les équipes ont effectué des relevés GPS sur les parcelles forestières.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données climatiques ont été téléchargées depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tests de sol ont été effectués en laboratoire à Abidjan.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons collecté les données sur le terrain pendant deux mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les statistiques ont été extraites de la base de données nationale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des observations ont été réalisées dans les villages environnants.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées proviennent du ministère de l’Environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons mesuré la qualité de l’eau à différents points du lac.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le rapport de la FAO (2022) fournit les chiffres sur la couverture forestière.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les équipes ont effectué des relevés GPS sur les parcelles forestières.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données climatiques ont été téléchargées depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tests de sol ont été effectués en laboratoire à Abidjan.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons collecté les données sur le terrain pendant deux mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les statistiques ont été extraites de la base de données nationale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des observations ont été réalisées dans les villages environnants.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées proviennent du ministère de l’Environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons mesuré la qualité de l’eau à différents points du lac.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le rapport de la FAO (2022) fournit les chiffres sur la couverture forestière.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les équipes ont effectué des relevés GPS sur les parcelles forestières.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données climatiques ont été téléchargées depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tests de sol ont été effectués en laboratoire à Abidjan.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons collecté les données sur le terrain pendant deux mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les statistiques ont été extraites de la base de données nationale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des observations ont été réalisées dans les villages environnants.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées proviennent du ministère de l’Environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons mesuré la qualité de l’eau à différents points du lac.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le rapport de la FAO (2022) fournit les chiffres sur la couverture forestière.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les équipes ont effectué des relevés GPS sur les parcelles forestières.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données climatiques ont été téléchargées depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tests de sol ont été effectués en laboratoire à Abidjan.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons collecté les données sur le terrain pendant deux mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les statistiques ont été extraites de la base de données nationale.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des observations ont été réalisées dans les villages environnants.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées proviennent du ministère de l’Environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons mesuré la qualité de l’eau à différents points du lac.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le rapport de la FAO (2022) fournit les chiffres sur la couverture forestière.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les équipes ont effectué des relevés GPS sur les parcelles forestières.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données climatiques ont été téléchargées depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tests de sol ont été effectués en laboratoire à Abidjan.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons vérifié les hypothèses grâce à nos propres mesures expérimentales.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe a procédé à une cartographie des zones sensibles à partir de relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Le protocole de suivi a été appliqué pendant toute la période d'observation.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats proviennent de notre propre expérimentation en milieu contrôlé.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons effectué une enquête de terrain auprès des populations locales.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été téléchargées depuis le site de l’INS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs ont été extraites du Système Mondial d’Observation de la Terre.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats sont issus d’archives publiques accessibles en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les séries climatiques ont été obtenues depuis WorldClim.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les mesures de température ont été relevées quotidiennement par les agents.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les échantillons ont été analysés dans notre laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Ces statistiques sont extraites du rapport annuel 2022.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’analyse repose sur des données existantes recueillies par d’autres auteurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des relevés floristiques ont été effectués au niveau de chaque parcelle échantillon.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons utilisé des relevés publiés dans une base académique.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été empruntées aux travaux de Martin et al. (2019).",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’étude s’appuie sur des données issues de publications précédentes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Nous avons interviewé 120 personnes à l’aide d’un questionnaire structuré.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les valeurs obtenues sont issues des observations directes des agents forestiers.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été collectées directement sur le site d'étude.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données proviennent d'une synthèse bibliographique menée en amont.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chiffres proviennent de la base de données de la FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les images satellites ont été interprétées par notre équipe SIG.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les valeurs économiques ont été reprises du rapport national sur l’environnement.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "L’équipe de recherche a observé les comportements pendant trois mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les informations démographiques ont été reprises d’un rapport officiel.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données socio-économiques proviennent des entretiens réalisés sur place.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les observations ont été tirées d’un guide technique publié en 2010.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données ont été saisies à partir des fiches de collecte manuelles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les documents historiques numérisés ont été utilisés comme source.",
+    "label": "secondaire"
+  },
+  {
+        "text": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+        "label": "secondaire"
+    },
+    {
+        "text": "Data Availability Statement: All relevant data are within the manuscript and its Supporting Information files.",
+        "label": "primaire"
+    },
+    {
+        "text": "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+        "label": "primaire"
+    },
+    {
+        "text": "Although lactate has historically and erroneously been considered an inert metabolic waste [13], recent evidence points to its importance as both a fuel source [14] and an activator of BDNF [15–18] with rapid effects.",
+        "label": "secondaire"
+    },
+    {
+        "text": "This study was reviewed and approved by the Hamilton Integrated Research Ethics Board (#14560) before recruitment and data collection.",
+        "label": "primaire"
+    },
+    {
+        "text": "All data were analyzed using SPSS (IBM SPSS Statistics for Macintosh, version 28.0; IBM Corp., Armonk, NY).",
+        "label": "primaire"
+    },
+    {
+        "text": "Data were screened for outliers using visual inspection of boxplots.",
+        "label": "primaire"
+    },
+    {
+        "text": "Cases were also removed due to programming errors with the cognitive test software and because of errors in GPS data recording.",
+        "label": "primaire"
+    },
+    {
+        "text": "We would like to recognize the efforts of each of the NeuroFit Lab members who helped us collect data and investigate this research topic.",
+        "label": "primaire"
+    },
+    {
+        "text": "Blood Lactate is an Important Energy Source for the Human Brain.",
+        "label": "secondaire"
+    },
+    {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "Figures were adapted from reports issued by the United Nations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The results were obtained through direct experimentation and sampling.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "This study is based on measurements conducted in controlled laboratory conditions.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data was logged manually during the course of the experiment.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary information was retrieved from peer-reviewed publications.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The results were obtained through direct experimentation and sampling.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data was logged manually during the course of the experiment.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "The results align with previously published studies on the topic.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data was logged manually during the course of the experiment.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary information was retrieved from peer-reviewed publications.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We administered a questionnaire to assess user satisfaction.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "The results align with previously published studies on the topic.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "This study is based on measurements conducted in controlled laboratory conditions.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The results were obtained through direct experimentation and sampling.",
+    "label": "primaire"
+  },
+  {
+    "text": "The results align with previously published studies on the topic.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The results were obtained through direct experimentation and sampling.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "This study is based on measurements conducted in controlled laboratory conditions.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data was logged manually during the course of the experiment.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "Figures were adapted from reports issued by the United Nations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary information was retrieved from peer-reviewed publications.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "This analysis relies on data published by the World Bank.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We collected data during fieldwork in the Amazon basin.",
+    "label": "primaire"
+  },
+  {
+    "text": "The results align with previously published studies on the topic.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "Historical data compiled by the FAO was incorporated in the study.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The results were obtained through direct experimentation and sampling.",
+    "label": "primaire"
+  },
+  {
+    "text": "Figures were adapted from reports issued by the United Nations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We administered a questionnaire to assess user satisfaction.",
+    "label": "primaire"
+  },
+  {
+    "text": "The results align with previously published studies on the topic.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We collected data during fieldwork in the Amazon basin.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "This study is based on measurements conducted in controlled laboratory conditions.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We collected data during fieldwork in the Amazon basin.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary information was retrieved from peer-reviewed publications.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data was logged manually during the course of the experiment.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary information was retrieved from peer-reviewed publications.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The soil samples were analyzed in our environmental chemistry lab.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The results were obtained through direct experimentation and sampling.",
+    "label": "primaire"
+  },
+  {
+    "text": "This analysis relies on data published by the World Bank.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The results were obtained through direct experimentation and sampling.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used climate records available from NOAA's historical database.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary information was retrieved from peer-reviewed publications.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The results were obtained through direct experimentation and sampling.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used climate records available from NOAA's historical database.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary information was retrieved from peer-reviewed publications.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data was logged manually during the course of the experiment.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We administered a questionnaire to assess user satisfaction.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "The results align with previously published studies on the topic.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data was logged manually during the course of the experiment.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used climate records available from NOAA's historical database.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The soil samples were analyzed in our environmental chemistry lab.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used climate records available from NOAA's historical database.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We administered a questionnaire to assess user satisfaction.",
+    "label": "primaire"
+  },
+  {
+    "text": "Data was sourced from publicly available government statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We collected data during fieldwork in the Amazon basin.",
+    "label": "primaire"
+  },
+  {
+    "text": "This analysis relies on data published by the World Bank.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data was logged manually during the course of the experiment.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The results were obtained through direct experimentation and sampling.",
+    "label": "primaire"
+  },
+  {
+    "text": "This analysis relies on data published by the World Bank.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The soil samples were analyzed in our environmental chemistry lab.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "Figures were adapted from reports issued by the United Nations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We collected data during fieldwork in the Amazon basin.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary information was retrieved from peer-reviewed publications.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "This analysis relies on data published by the World Bank.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "Figures were adapted from reports issued by the United Nations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We administered a questionnaire to assess user satisfaction.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary information was retrieved from peer-reviewed publications.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The soil samples were analyzed in our environmental chemistry lab.",
+    "label": "primaire"
+  },
+  {
+    "text": "Figures were adapted from reports issued by the United Nations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We collected data during fieldwork in the Amazon basin.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We collected data during fieldwork in the Amazon basin.",
+    "label": "primaire"
+  },
+  {
+    "text": "The results align with previously published studies on the topic.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data was logged manually during the course of the experiment.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used climate records available from NOAA's historical database.",
+    "label": "secondaire"
+  },
+  {
+    "text": "This study is based on measurements conducted in controlled laboratory conditions.",
+    "label": "primaire"
+  },
+  {
+    "text": "This analysis relies on data published by the World Bank.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The results were obtained through direct experimentation and sampling.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used climate records available from NOAA's historical database.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used climate records available from NOAA's historical database.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "Figures were adapted from reports issued by the United Nations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "Census data from 2010 was used to determine population trends.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We collected data during fieldwork in the Amazon basin.",
+    "label": "primaire"
+  },
+  {
+    "text": "Historical data compiled by the FAO was incorporated in the study.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "This study is based on measurements conducted in controlled laboratory conditions.",
+    "label": "primaire"
+  },
+  {
+    "text": "Historical data compiled by the FAO was incorporated in the study.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "Historical data compiled by the FAO was incorporated in the study.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The soil samples were analyzed in our environmental chemistry lab.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used climate records available from NOAA's historical database.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "Secondary information was retrieved from peer-reviewed publications.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Respondents provided feedback on water usage through interviews.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on open datasets made available by research institutions.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Primary data was recorded via remote sensors installed on site.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "This analysis relies on data published by the World Bank.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Field observations were documented in the researcher’s notebook.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used climate records available from NOAA's historical database.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "This analysis relies on data published by the World Bank.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We collected data during fieldwork in the Amazon basin.",
+    "label": "primaire"
+  },
+  {
+    "text": "The analysis was conducted using data from national archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Participants were surveyed to gather demographic information.",
+    "label": "primaire"
+  },
+  {
+    "text": "This analysis relies on data published by the World Bank.",
+    "label": "secondaire"
+  },
+   {
+    "text": "The analysis builds on data already published in previous work.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Figures were taken from government statistical records.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We consulted the IPCC’s archive for climate projection datasets.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Citations of previously analyzed data were extracted from a meta-analysis.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Archived financial data supported the economic models.",
+    "label": "secondaire"
+  },
+  {
+    "text": "This study replicates findings from previously reported experiments.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Datasets from previous surveys conducted by NGOs were utilized.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We utilized GIS layers produced in earlier projects.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Survey responses came from historical polling databases.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data from published appendices were reanalyzed.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The researchers relied on data published by the United Nations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "External sources such as published books and reports were cited.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Only secondary data was used due to lack of field access.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Cited information comes from a compilation of public archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Comparative analysis relied on published national statistics.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Publicly available data were sourced from the World Bank database.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The report drew its numbers from publicly accessible datasets.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Reanalyses were performed on datasets published five years ago.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Trends were validated with datasets from third-party sources.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Spatial data were extracted from a published repository.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We referenced demographic statistics from Eurostat.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Archived data were extracted from national census reports.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Secondary sources included development agency reports.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Findings were supported by prior national surveys.",
+    "label": "secondaire"
+  },
+  {
+    "text": "All figures came from datasets already analyzed in prior studies.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Satellite imagery was downloaded from Copernicus and reprocessed.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Published datasets were downloaded and re-analyzed.",
+    "label": "secondaire"
+  },
+  {
+    "text": "All relevant datasets are available through academic portals.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We reused survey tools from other published experiments.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Open-access data repositories provided the numerical values used.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Information was gathered from published scientific articles.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Statistical tables were re-used from government policy documents.",
+    "label": "secondaire"
+  },
+  {
+    "text": "No primary data were collected; all data were retrieved from online sources.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Environmental indicators were derived from remote sensing archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study did not involve new data collection efforts.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Numbers cited in this paper come from government websites.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Our maps were based on shapefiles from open data platforms.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Statistical outputs from previous field missions were reused.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Historical weather data were retrieved from meteorological archives.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We based our simulations on datasets released by the FAO.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Numerical figures come from the OECD public data portal.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Sources included archived institutional research data.",
+    "label": "secondaire"
+  },
+  {
+    "text": "We analyzed metadata shared by previous researchers.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data were drawn from previously published peer-reviewed literature.",
+    "label": "secondaire"
+  },
+  {
+    "text": "This work used secondary data from national forestry inventories.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data mentioned here were taken from the CDC's published health indicators.",
+    "label": "secondaire"
+  },
+  {
+    "text": "All information was cited from reliable published studies.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Only existing survey data were reinterpreted for the present study.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data were provided by previous project stakeholders.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The data used in this study were obtained from the World Health Organization.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les chercheurs ont eux-mêmes rempli les fiches de collecte.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats ont été mesurés directement sur le terrain.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les auteurs se sont appuyés sur des rapports ministériels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Figures were drawn from both new and old datasets.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des analyses statistiques ont été réalisées sur les valeurs brutes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les échantillons ont été préparés au laboratoire.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.",
+    "label": "primaire"
+  },
+  {
+    "text": "Archived satellite images were used to assess the impact.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats ont été mesurés directement sur le terrain.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The soil samples were taken during a field campaign.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les résultats ont été mesurés directement sur le terrain.",
+    "label": "primaire"
+  },
+  {
+    "text": "The study aggregated values from previous experiments.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Historical archives were digitized and interpreted.",
+    "label": "primaire"
+  },
+  {
+    "text": "We implemented a localized sampling strategy.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Ils ont comparé avec des archives régionales disponibles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Cette cartographie a été produite à partir de nos relevés GPS.",
+    "label": "primaire"
+  },
+  {
+    "text": "The dataset was obtained from an earlier project and reused for comparison.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Cette cartographie a été produite à partir de nos relevés GPS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study refers to open statistics made public by the government.",
+    "label": "primaire"
+  },
+  {
+    "text": "A previous study provided much of the statistical baseline.",
+    "label": "primaire"
+  },
+  {
+    "text": "Un rapport antérieur a servi de base aux chiffres retenus.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Archived documents formed the backbone of the data.",
+    "label": "secondaire"
+  },
+  {
+    "text": "A previous study provided much of the statistical baseline.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.",
+    "label": "primaire"
+  },
+  {
+    "text": "Une méthode de codage a été appliquée aux interviews récoltées.",
+    "label": "primaire"
+  },
+  {
+    "text": "Ils ont comparé avec des archives régionales disponibles.",
+    "label": "primaire"
+  },
+  {
+    "text": "Cette cartographie a été produite à partir de nos relevés GPS.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Figures were drawn from both new and old datasets.",
+    "label": "primaire"
+  },
+  {
+    "text": "We implemented a localized sampling strategy.",
+    "label": "primaire"
+  },
+  {
+    "text": "Un logiciel propriétaire a servi à traiter les entrées du capteur.",
+    "label": "primaire"
+  },
+  {
+    "text": "External publications informed much of our approach.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les indicateurs ont été générés à partir de sources ouvertes.",
+    "label": "primaire"
+  },
+  {
+    "text": "The indicators used were adapted from prior models.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The database was built by merging several open access sources.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Une méthode de codage a été appliquée aux interviews récoltées.",
+    "label": "primaire"
+  },
+  {
+    "text": "Information was gathered through on-site sensors.",
+    "label": "primaire"
+  },
+  {
+    "text": "The study refers to open statistics made public by the government.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Previous surveys were consulted to enrich the current analysis.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les auteurs se sont appuyés sur des rapports ministériels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "primaire"
+  },
+  {
+    "text": "Measurements were taken across several regions using GPS equipment.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les auteurs se sont appuyés sur des rapports ministériels.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les chercheurs ont eux-mêmes rempli les fiches de collecte.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les tableaux ont été construits à partir de données empiriques.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les tableaux ont été construits à partir de données empiriques.",
+    "label": "primaire"
+  },
+  {
+    "text": "The study aggregated values from previous experiments.",
+    "label": "primaire"
+  },
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons centralisé les données dans une interface dédiée.",
+    "label": "primaire"
+  },
+  {
+    "text": "Historical archives were digitized and interpreted.",
+    "label": "primaire"
+  },
+  {
+    "text": "The database was built by merging several open access sources.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used our own protocols to collect biometric data.",
+    "label": "primaire"
+  },
+  {
+    "text": "Figures were drawn from both new and old datasets.",
+    "label": "primaire"
+  },
+  {
+    "text": "We used our own protocols to collect biometric data.",
+    "label": "primaire"
+  },
+  {
+    "text": "External publications informed much of our approach.",
+    "label": "secondaire"
+  },
+  {
+    "text": "They performed their own measurements alongside third-party data.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les chercheurs ont eux-mêmes rempli les fiches de collecte.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les indicateurs ont été générés à partir de sources ouvertes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Des analyses statistiques ont été réalisées sur les valeurs brutes.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The indicators used were adapted from prior models.",
+    "label": "primaire"
+  },
+  {
+    "text": "Sensor logs were parsed to extract behavioral metrics.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les résultats ont été mesurés directement sur le terrain.",
+    "label": "primaire"
+  },
+  {
+    "text": "Cette base de données a été complétée par nos propres observations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "The study aggregated values from previous experiments.",
+    "label": "primaire"
+  },
+  {
+    "text": "Archived documents formed the backbone of the data.",
+    "label": "primaire"
+  },
+  {
+    "text": "They relied partly on academic repositories.",
+    "label": "primaire"
+  },
+  {
+    "text": "Cette base de données a été complétée par nos propres observations.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Historical archives were digitized and interpreted.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Toutes les variables ont été issues de nos propres relevés.",
+    "label": "secondaire"
+  },
+  {
+    "text": "An open platform provided preliminary data layers.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Data shared by collaborators supported the interpretation.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.",
+    "label": "primaire"
+  },
+  {
+    "text": "We relied on published datasets to validate our assumptions.",
+    "label": "primaire"
+  },
+  {
+    "text": "Les indicateurs ont été générés à partir de sources ouvertes.",
+    "label": "primaire"
+  },
+  {
+    "text": "Une enquête pilote a permis de récolter les premiers indicateurs.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Information was gathered through on-site sensors.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les échantillons ont été préparés au laboratoire.",
+    "label": "primaire"
+  },
+  {
+    "text": "Toutes les variables ont été issues de nos propres relevés.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des informations ont été saisies lors des entretiens individuels.",
+    "label": "primaire"
+  },
+  {
+    "text": "They performed their own measurements alongside third-party data.",
+    "label": "primaire"
+  },
+  {
+    "text": "The soil samples were taken during a field campaign.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Les données utilisées ont été téléchargées à partir d'une base en ligne.",
+    "label": "primaire"
+  },
+  {
+    "text": "Previous surveys were consulted to enrich the current analysis.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Measurements were taken across several regions using GPS equipment.",
+    "label": "primaire"
+  },
+  {
+    "text": "The database was built by merging several open access sources.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Ils ont téléchargé un ensemble déjà publié.",
+    "label": "secondaire"
+  },
+  {
+    "text": "Archived satellite images were used to assess the impact.",
+    "label": "primaire"
+  },
+  {
+    "text": "Nous avons mené une collecte sur plusieurs mois.",
+    "label": "primaire"
+  },
+  {
+    "text": "External publications informed much of our approach.",
+    "label": "secondaire"
+  },
+  {
+    "text": "They performed their own measurements alongside third-party data.",
+    "label": "primaire"
+  },
+  {
+    "text": "Des données historiques ont été exploitées sans modification.",
+    "label": "primaire"
+  },
+  {
+    "text": "Un logiciel propriétaire a servi à traiter les entrées du capteur.",
+    "label": "primaire"
+  },
+  {
+    "text": "Une méthode de codage a été appliquée aux interviews récoltées.",
+    "label": "primaire"
+  }
+]
