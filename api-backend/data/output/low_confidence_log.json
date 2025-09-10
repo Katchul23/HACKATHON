@@ -1,0 +1,740 @@
+[
+  {
+    "timestamp": "2025-07-06T20:59:54.653264",
+    "text": "NumPy is the primary array programming library for the Python language.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T20:59:54.684975",
+    "text": "It has an essential role in research analysis pipelines in fields as diverse as physics, chemistry, astronomy, geoscience, biology, psychology, materials science, engineering, finance and economics.",
+    "predicted_label": "primaire",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-07-06T20:59:54.755780",
+    "text": "NumPy is the foundation upon which the scientific Python ecosystem is constructed.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T20:59:54.801922",
+    "text": "Owing to its central position in the ecosystem, NumPy increasingly acts as an interoperability layer between such array computation libraries and, together with its application programming interface (API), provides a flexible framework to support the next decade of scientific and industrial analysis.</jats:p> Array programming with NumPy Harris, Millman, van der Walt, Gommers, Virtanen, Cournapeau, Wieser, Taylor, Berg, Smith, Kern, Picus, Hoyer, van Kerkwijk, Brett, Haldane, del Río, Wiebe, Peterson, GérardMarchant, Sheppard, Reddy, Weckesser, Abbasi, Gohlke,",
+    "predicted_label": "secondaire",
+    "confidence": 0.55
+  },
+  {
+    "timestamp": "2025-07-06T21:07:33.483735",
+    "text": "NumPy is the primary array programming library for the Python language.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T21:07:33.506783",
+    "text": "It has an essential role in research analysis pipelines in fields as diverse as physics, chemistry, astronomy, geoscience, biology, psychology, materials science, engineering, finance and economics.",
+    "predicted_label": "primaire",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-07-06T21:07:33.571921",
+    "text": "NumPy is the foundation upon which the scientific Python ecosystem is constructed.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T21:07:33.618244",
+    "text": "Owing to its central position in the ecosystem, NumPy increasingly acts as an interoperability layer between such array computation libraries and, together with its application programming interface (API), provides a flexible framework to support the next decade of scientific and industrial analysis.</jats:p> Array programming with NumPy Harris, Millman, van der Walt, Gommers, Virtanen, Cournapeau, Wieser, Taylor, Berg, Smith, Kern, Picus, Hoyer, van Kerkwijk, Brett, Haldane, del Río, Wiebe, Peterson, GérardMarchant, Sheppard, Reddy, Weckesser, Abbasi, Gohlke,",
+    "predicted_label": "secondaire",
+    "confidence": 0.55
+  },
+  {
+    "timestamp": "2025-07-06T21:11:10.765659",
+    "text": "NumPy is the primary array programming library for the Python language.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T21:11:10.792947",
+    "text": "It has an essential role in research analysis pipelines in fields as diverse as physics, chemistry, astronomy, geoscience, biology, psychology, materials science, engineering, finance and economics.",
+    "predicted_label": "primaire",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-07-06T21:11:10.898637",
+    "text": "NumPy is the foundation upon which the scientific Python ecosystem is constructed.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T21:11:10.941255",
+    "text": "Owing to its central position in the ecosystem, NumPy increasingly acts as an interoperability layer between such array computation libraries and, together with its application programming interface (API), provides a flexible framework to support the next decade of scientific and industrial analysis.</jats:p> Array programming with NumPy Harris, Millman, van der Walt, Gommers, Virtanen, Cournapeau, Wieser, Taylor, Berg, Smith, Kern, Picus, Hoyer, van Kerkwijk, Brett, Haldane, del Río, Wiebe, Peterson, GérardMarchant, Sheppard, Reddy, Weckesser, Abbasi, Gohlke,",
+    "predicted_label": "secondaire",
+    "confidence": 0.55
+  },
+  {
+    "timestamp": "2025-07-06T21:42:15.454827",
+    "text": "NumPy is the primary array programming library for the Python language.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T21:42:15.484393",
+    "text": "It has an essential role in research analysis pipelines in fields as diverse as physics, chemistry, astronomy, geoscience, biology, psychology, materials science, engineering, finance and economics.",
+    "predicted_label": "primaire",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-07-06T21:42:15.543587",
+    "text": "NumPy is the foundation upon which the scientific Python ecosystem is constructed.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T21:42:15.592294",
+    "text": "Owing to its central position in the ecosystem, NumPy increasingly acts as an interoperability layer between such array computation libraries and, together with its application programming interface (API), provides a flexible framework to support the next decade of scientific and industrial analysis.</jats:p> Array programming with NumPy Harris, Millman, van der Walt, Gommers, Virtanen, Cournapeau, Wieser, Taylor, Berg, Smith, Kern, Picus, Hoyer, van Kerkwijk, Brett, Haldane, del Río, Wiebe, Peterson, GérardMarchant, Sheppard, Reddy, Weckesser, Abbasi, Gohlke,",
+    "predicted_label": "secondaire",
+    "confidence": 0.55
+  },
+  {
+    "timestamp": "2025-07-06T21:45:55.088313",
+    "text": "NumPy is the primary array programming library for the Python language.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T21:45:55.116462",
+    "text": "It has an essential role in research analysis pipelines in fields as diverse as physics, chemistry, astronomy, geoscience, biology, psychology, materials science, engineering, finance and economics.",
+    "predicted_label": "primaire",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-07-06T21:45:55.183280",
+    "text": "NumPy is the foundation upon which the scientific Python ecosystem is constructed.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T21:45:55.232523",
+    "text": "Owing to its central position in the ecosystem, NumPy increasingly acts as an interoperability layer between such array computation libraries and, together with its application programming interface (API), provides a flexible framework to support the next decade of scientific and industrial analysis.</jats:p> Array programming with NumPy Harris, Millman, van der Walt, Gommers, Virtanen, Cournapeau, Wieser, Taylor, Berg, Smith, Kern, Picus, Hoyer, van Kerkwijk, Brett, Haldane, del Río, Wiebe, Peterson, GérardMarchant, Sheppard, Reddy, Weckesser, Abbasi, Gohlke,",
+    "predicted_label": "secondaire",
+    "confidence": 0.55
+  },
+  {
+    "timestamp": "2025-07-06T22:20:38.064787",
+    "text": "NumPy is the primary array programming library for the Python language.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T22:20:38.092983",
+    "text": "It has an essential role in research analysis pipelines in fields as diverse as physics, chemistry, astronomy, geoscience, biology, psychology, materials science, engineering, finance and economics.",
+    "predicted_label": "primaire",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-07-06T22:20:38.148830",
+    "text": "NumPy is the foundation upon which the scientific Python ecosystem is constructed.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T22:20:38.193707",
+    "text": "Owing to its central position in the ecosystem, NumPy increasingly acts as an interoperability layer between such array computation libraries and, together with its application programming interface (API), provides a flexible framework to support the next decade of scientific and industrial analysis.</jats:p> Array programming with NumPy Harris, Millman, van der Walt, Gommers, Virtanen, Cournapeau, Wieser, Taylor, Berg, Smith, Kern, Picus, Hoyer, van Kerkwijk, Brett, Haldane, del Río, Wiebe, Peterson, GérardMarchant, Sheppard, Reddy, Weckesser, Abbasi, Gohlke,",
+    "predicted_label": "secondaire",
+    "confidence": 0.55
+  },
+  {
+    "timestamp": "2025-07-06T22:33:22.086435",
+    "text": "1 %\n\nsur\nune même machine, les résultats peuvent fluctuer d’une exécution à l’autre en fonction de l’activité de la machine",
+    "predicted_label": "secondaire",
+    "confidence": 0.54
+  },
+  {
+    "timestamp": "2025-07-06T22:33:22.112201",
+    "text": "5 Gestion des boutons\nméthodes dans notre classe :\nIl reste maintenant à gérer les boutons permettant de démarrer / stopper le pendule",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T22:33:22.244705",
+    "text": "Pour cet exercice,\n\nvous devez sav\n\n\noir que la séquence démarre après la ligne commençant par le mot ORIGIN et se termine avant la ligne\ncommençant par les caractères // :\n\n1 ccacaccaca cccacacacc cacacaccac accacacacc acaccacacc cacacacaca\n\n\n61 catcctaaca ctaccctaac acagccctaa tctaaccctg gccaacctgt ctctcaactt\n2301\n\n01 tgttagtgtt agtattaggg tgtggtgtgt gggtgtggtg tgggtgtggg tgtgggtgtg\n2301\n\n61 ggtgtgggtg tgggtgtggt gtggtgtgtg ggtgtggtgt gggtgtggtg tgtgtggg\nPour extraire la séquence d’ADN, nous vous proposons d’utiliser un algorithme de « drapeau », c’est-à-\n\ndire une variable\nqui sera à True lorsqu’on lira les lignes contenant la séquence et à False pour les autres lignes",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T22:33:22.262738",
+    "text": "Utilisez cette fonction pour générer aléatoirement une séquence d’ADN de 50 bases contenant 10 % de A, 30 %\n\nde\nT, 50 % de G et 10 % de C",
+    "predicted_label": "primaire",
+    "confidence": 0.5
+  },
+  {
+    "timestamp": "2025-07-06T22:33:22.299797",
+    "text": "4 Gestion des espaces\nLa PEP 8 recommande d’entourer les opérateurs (+, -, /, *, ==, !=, >=, not, in, and, or…) d’\n\nun espace avant et\nd’un espace après",
+    "predicted_label": "primaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-06T22:33:22.357500",
+    "text": "2 %\n\nhistory\nLa commande %history liste toutes les commandes Python lancées dans un notebook :\n3",
+    "predicted_label": "primaire",
+    "confidence": 0.55
+  },
+  {
+    "timestamp": "2025-07-06T22:33:22.393465",
+    "text": "4 %%\n\ntimeit\nPour palier à ce problème, la magic command %%\n\ntimeit va exécuter plusieurs fois la cellule et donner une estimation\ndu temps d’exécution moyen",
+    "predicted_label": "primaire",
+    "confidence": 0.53
+  },
+  {
+    "timestamp": "2025-07-06T22:33:22.465537",
+    "text": "3 Gestion des noms avec les classes\nOn vient de voir qu’un module avait son propre espace de noms, mais qu’en est-il des classes ?\n\nEn utilisant les exemples\nvus depuis le début de ce chapitre, vous avez certainement la réponse",
+    "predicted_label": "primaire",
+    "confidence": 0.57
+  },
+  {
+    "timestamp": "2025-07-06T22:33:22.485961",
+    "text": "4 Gestion des noms entre les attributs de classe et d’\n\ninstance\nSi vous lisez cette rubrique sur l’espace de noms sans avoir lu ce chapitre depuis le début,\n\nnous vous conseillons\nvivement de lire attentivement la rubrique Différence entre les attributs de classe et d’instance",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-06T22:33:22.617798",
+    "text": "5 Gestion des exceptions\nLes langages de programmation comme Python contiennent un système de gestion des exceptions 31",
+    "predicted_label": "primaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-09T12:43:15.289802",
+    "text": "Olsson <jats:title>Abstract</jats:title><jats:p>Sex determination in Australian agamid lizards shows a complex framework of different mechanisms, varying even among closely related taxa.",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-09T12:43:15.433582",
+    "text": "Although many species in this group show temperature‐dependent sex determination (<jats:styledcontent style=\"fixedcase\">TSD</jats:styledcontent>), recent evidence suggests additional genetic or epigenetic effects.",
+    "predicted_label": "primaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-09T12:43:15.468162",
+    "text": "A proposed model explaining the adaptive significance and evolution of <jats:styledcontent style=\"fixedcase\">TSD</jats:styledcontent> in short‐lived agamids predicts that selection will favor temperature‐biased sex ratios in species with intense male‐male competition.",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-09T13:55:01.953182",
+    "text": "10 Deficiency on Intestinal Epithelium Responses to Inflammatory Signals Papoutsopoulou, Pollock, Walker, Tench, Samad, Bergey, Lenzi, SheibaniTezerji, Rosenstiel, Alam, Martins Dos Santos, Müller, Campbell <jats:p>Interleukin 10 (IL-10) is a pleiotropic, antiinflammatory cytokine that has a major protective role in the intestine.",
+    "predicted_label": "primaire",
+    "confidence": 0.5
+  },
+  {
+    "timestamp": "2025-07-09T13:55:02.008538",
+    "text": "Although its production by cells of the innate and adaptive immune system has been extensively studied, its intrinsic role in intestinal epithelial cells is poorly understood.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-09T13:55:02.048527",
+    "text": "In this study, we utilised both ATAC sequencing and RNA sequencing to define the transcriptional response of murine enteroids to tumour necrosis factor (TNF).",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-09T13:55:02.088057",
+    "text": "We identified that the key early phase drivers of the transcriptional response to TNF within intestinal epithelium were NF<jats:italic>κ</jats:italic>B transcription factor dependent.",
+    "predicted_label": "secondaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-09T13:55:02.152330",
+    "text": "IL-10 deficiency, or immunoblockade of IL-10 receptor, impacted on TNFinduced endogenous NF<jats:italic>κ</jats:italic>B activity and downstream NF<jats:italic>κ</jats:italic>B target gene transcription.",
+    "predicted_label": "primaire",
+    "confidence": 0.51
+  },
+  {
+    "timestamp": "2025-07-09T13:58:04.527974",
+    "text": "10 Deficiency on Intestinal Epithelium Responses to Inflammatory Signals Papoutsopoulou, Pollock, Walker, Tench, Samad, Bergey, Lenzi, SheibaniTezerji, Rosenstiel, Alam, Martins Dos Santos, Müller, Campbell <jats:p>Interleukin 10 (IL-10) is a pleiotropic, antiinflammatory cytokine that has a major protective role in the intestine.",
+    "predicted_label": "primaire",
+    "confidence": 0.5
+  },
+  {
+    "timestamp": "2025-07-09T13:58:04.558689",
+    "text": "Although its production by cells of the innate and adaptive immune system has been extensively studied, its intrinsic role in intestinal epithelial cells is poorly understood.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-09T13:58:04.584080",
+    "text": "In this study, we utilised both ATAC sequencing and RNA sequencing to define the transcriptional response of murine enteroids to tumour necrosis factor (TNF).",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-09T13:58:04.609172",
+    "text": "We identified that the key early phase drivers of the transcriptional response to TNF within intestinal epithelium were NF<jats:italic>κ</jats:italic>B transcription factor dependent.",
+    "predicted_label": "secondaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-09T13:58:04.667677",
+    "text": "IL-10 deficiency, or immunoblockade of IL-10 receptor, impacted on TNFinduced endogenous NF<jats:italic>κ</jats:italic>B activity and downstream NF<jats:italic>κ</jats:italic>B target gene transcription.",
+    "predicted_label": "primaire",
+    "confidence": 0.51
+  },
+  {
+    "timestamp": "2025-07-10T18:10:25.899864",
+    "text": "10 Deficiency on Intestinal Epithelium Responses to Inflammatory Signals Papoutsopoulou, Pollock, Walker, Tench, Samad, Bergey, Lenzi, SheibaniTezerji, Rosenstiel, Alam, Martins Dos Santos, Müller, Campbell <jats:p>Interleukin 10 (IL-10) is a pleiotropic, antiinflammatory cytokine that has a major protective role in the intestine.",
+    "predicted_label": "primaire",
+    "confidence": 0.5
+  },
+  {
+    "timestamp": "2025-07-10T18:10:25.927761",
+    "text": "Although its production by cells of the innate and adaptive immune system has been extensively studied, its intrinsic role in intestinal epithelial cells is poorly understood.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-10T18:10:25.947237",
+    "text": "In this study, we utilised both ATAC sequencing and RNA sequencing to define the transcriptional response of murine enteroids to tumour necrosis factor (TNF).",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-10T18:10:25.966107",
+    "text": "We identified that the key early phase drivers of the transcriptional response to TNF within intestinal epithelium were NF<jats:italic>κ</jats:italic>B transcription factor dependent.",
+    "predicted_label": "secondaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-10T18:10:26.015957",
+    "text": "IL-10 deficiency, or immunoblockade of IL-10 receptor, impacted on TNFinduced endogenous NF<jats:italic>κ</jats:italic>B activity and downstream NF<jats:italic>κ</jats:italic>B target gene transcription.",
+    "predicted_label": "primaire",
+    "confidence": 0.51
+  },
+  {
+    "timestamp": "2025-07-10T18:41:34.537110",
+    "text": "Olsson <jats:title>Abstract</jats:title><jats:p>Sex determination in Australian agamid lizards shows a complex framework of different mechanisms, varying even among closely related taxa.",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-10T18:41:34.580309",
+    "text": "Although many species in this group show temperature‐dependent sex determination (<jats:styledcontent style=\"fixedcase\">TSD</jats:styledcontent>), recent evidence suggests additional genetic or epigenetic effects.",
+    "predicted_label": "primaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-10T18:41:34.599546",
+    "text": "A proposed model explaining the adaptive significance and evolution of <jats:styledcontent style=\"fixedcase\">TSD</jats:styledcontent> in short‐lived agamids predicts that selection will favor temperature‐biased sex ratios in species with intense male‐male competition.",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-10T18:50:24.265241",
+    "text": "Olsson <jats:title>Abstract</jats:title><jats:p>Sex determination in Australian agamid lizards shows a complex framework of different mechanisms, varying even among closely related taxa.",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-10T18:50:24.311335",
+    "text": "Although many species in this group show temperature‐dependent sex determination (<jats:styledcontent style=\"fixedcase\">TSD</jats:styledcontent>), recent evidence suggests additional genetic or epigenetic effects.",
+    "predicted_label": "primaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-10T18:50:24.332801",
+    "text": "A proposed model explaining the adaptive significance and evolution of <jats:styledcontent style=\"fixedcase\">TSD</jats:styledcontent> in short‐lived agamids predicts that selection will favor temperature‐biased sex ratios in species with intense male‐male competition.",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-10T18:53:07.576886",
+    "text": "Olsson <jats:title>Abstract</jats:title><jats:p>Sex determination in Australian agamid lizards shows a complex framework of different mechanisms, varying even among closely related taxa.",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-10T18:53:07.618931",
+    "text": "Although many species in this group show temperature‐dependent sex determination (<jats:styledcontent style=\"fixedcase\">TSD</jats:styledcontent>), recent evidence suggests additional genetic or epigenetic effects.",
+    "predicted_label": "primaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-10T18:53:07.638577",
+    "text": "A proposed model explaining the adaptive significance and evolution of <jats:styledcontent style=\"fixedcase\">TSD</jats:styledcontent> in short‐lived agamids predicts that selection will favor temperature‐biased sex ratios in species with intense male‐male competition.",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-10T18:58:00.705564",
+    "text": "Olsson <jats:title>Abstract</jats:title><jats:p>Sex determination in Australian agamid lizards shows a complex framework of different mechanisms, varying even among closely related taxa.",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-10T18:58:00.780659",
+    "text": "Although many species in this group show temperature‐dependent sex determination (<jats:styledcontent style=\"fixedcase\">TSD</jats:styledcontent>), recent evidence suggests additional genetic or epigenetic effects.",
+    "predicted_label": "primaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-10T18:58:00.812252",
+    "text": "A proposed model explaining the adaptive significance and evolution of <jats:styledcontent style=\"fixedcase\">TSD</jats:styledcontent> in short‐lived agamids predicts that selection will favor temperature‐biased sex ratios in species with intense male‐male competition.",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-10T19:06:49.050012",
+    "text": "Agronomic characteristics of five different urban waste digestates Tampio, Salo, Rintala",
+    "predicted_label": "primaire",
+    "confidence": 0.53
+  },
+  {
+    "timestamp": "2025-07-10T19:09:50.196717",
+    "text": "Walthall <jats:p>Remote sensing has provided valuable insights into agronomic management over the past 40 yr.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-10T19:09:50.250076",
+    "text": "Leaf chlorophyll and the preferential absorption at different wavelengths provides the basis for utilizing reflectance with either broad‐band radiometers typical of current satellite platforms or hyperspectral sensors that measure reflectance at narrow wavebands.",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-10T19:09:50.312934",
+    "text": "These tools are being developed as we learn how to use the information provided in reflectance and emittance measurements with a range of sensors.",
+    "predicted_label": "primaire",
+    "confidence": 0.53
+  },
+  {
+    "timestamp": "2025-07-10T19:09:50.332549",
+    "text": "Remote sensing continues to evolve as a valuable agronomic tool that provides information to scientists, consultants, and producers about the status of their crops.",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-10T19:09:50.354415",
+    "text": "This area is still relatively new compared with other agronomic fields; however, the information content is providing valuable insights into improved management decisions.",
+    "predicted_label": "secondaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-10T21:09:54.417913",
+    "text": "Walthall <jats:p>Remote sensing has provided valuable insights into agronomic management over the past 40 yr.",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-10T21:09:54.451838",
+    "text": "Leaf chlorophyll and the preferential absorption at different wavelengths provides the basis for utilizing reflectance with either broad‐band radiometers typical of current satellite platforms or hyperspectral sensors that measure reflectance at narrow wavebands.",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-10T21:09:54.507874",
+    "text": "These tools are being developed as we learn how to use the information provided in reflectance and emittance measurements with a range of sensors.",
+    "predicted_label": "primaire",
+    "confidence": 0.53
+  },
+  {
+    "timestamp": "2025-07-10T21:09:54.536001",
+    "text": "Remote sensing continues to evolve as a valuable agronomic tool that provides information to scientists, consultants, and producers about the status of their crops.",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-10T21:09:54.561129",
+    "text": "This area is still relatively new compared with other agronomic fields; however, the information content is providing valuable insights into improved management decisions.",
+    "predicted_label": "secondaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-10T21:18:57.604951",
+    "text": "Our data support the hypotheses that extant hagfish eyes are degenerate, not rudimentary, that cyclostomes are monophyletic, and that the ancestral vertebrate had a functional visual system.",
+    "predicted_label": "primaire",
+    "confidence": 0.54
+  },
+  {
+    "timestamp": "2025-07-12T01:54:47.906395",
+    "text": "Claustre <jats:title>Abstract</jats:title><jats:p>Characterizing phytoplankton distribution and dynamics in the world's open oceans requires in situ observations over a broad range of space and time scales.",
+    "predicted_label": "secondaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-12T01:54:47.942700",
+    "text": "In addition to temperature/salinity measurements, Biogeochemical‐Argo (BGC‐Argo) profiling floats are capable of autonomously observing at high‐frequency bio‐optical properties such as the chlorophyll fluorescence, a proxy of the chlorophyll <jats:italic>a</jats:italic> concentration (Chl<jats:italic>a</jats:italic>), the particulate backscattering coefficient (b<jats:sub>bp</jats:sub>), a proxy of the stock of particulate organic carbon, and the light available for photosynthesis.",
+    "predicted_label": "secondaire",
+    "confidence": 0.54
+  },
+  {
+    "timestamp": "2025-07-12T01:54:47.969896",
+    "text": "We analyzed an unprecedented BGC‐Argo database of more than 8,500 multivariable profiles collected in various oceanic conditions, from subpolar waters to subtropical gyres.",
+    "predicted_label": "secondaire",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-07-12T01:54:48.014732",
+    "text": "We distinguish two main contrasted situations: (1) concomitant changes in Chl<jats:italic>a</jats:italic> and b<jats:sub>bp</jats:sub> that correspond to actual variations in phytoplankton biomass, e.g., in subpolar regimes; (2) a decoupling between the two variables attributed to photoacclimation or changes in the relative abundance of nonalgal particles, e.g., in subtropical regimes.",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-12T01:54:48.063480",
+    "text": "The variability in the b<jats:sub>bp</jats:sub>:Chl<jats:italic>a</jats:italic> ratio in the surface layer appears to be essentially influenced by the type of particles and by photoacclimation processes.",
+    "predicted_label": "primaire",
+    "confidence": 0.5
+  },
+  {
+    "timestamp": "2025-07-12T02:00:08.412981",
+    "text": "Claustre <jats:title>Abstract</jats:title><jats:p>Characterizing phytoplankton distribution and dynamics in the world's open oceans requires in situ observations over a broad range of space and time scales.",
+    "predicted_label": "secondaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-12T02:00:08.442425",
+    "text": "In addition to temperature/salinity measurements, Biogeochemical‐Argo (BGC‐Argo) profiling floats are capable of autonomously observing at high‐frequency bio‐optical properties such as the chlorophyll fluorescence, a proxy of the chlorophyll <jats:italic>a</jats:italic> concentration (Chl<jats:italic>a</jats:italic>), the particulate backscattering coefficient (b<jats:sub>bp</jats:sub>), a proxy of the stock of particulate organic carbon, and the light available for photosynthesis.",
+    "predicted_label": "secondaire",
+    "confidence": 0.54
+  },
+  {
+    "timestamp": "2025-07-12T02:00:08.467865",
+    "text": "We analyzed an unprecedented BGC‐Argo database of more than 8,500 multivariable profiles collected in various oceanic conditions, from subpolar waters to subtropical gyres.",
+    "predicted_label": "secondaire",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-07-12T02:00:08.512835",
+    "text": "We distinguish two main contrasted situations: (1) concomitant changes in Chl<jats:italic>a</jats:italic> and b<jats:sub>bp</jats:sub> that correspond to actual variations in phytoplankton biomass, e.g., in subpolar regimes; (2) a decoupling between the two variables attributed to photoacclimation or changes in the relative abundance of nonalgal particles, e.g., in subtropical regimes.",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-12T02:00:08.551765",
+    "text": "The variability in the b<jats:sub>bp</jats:sub>:Chl<jats:italic>a</jats:italic> ratio in the surface layer appears to be essentially influenced by the type of particles and by photoacclimation processes.",
+    "predicted_label": "primaire",
+    "confidence": 0.5
+  },
+  {
+    "timestamp": "2025-07-12T02:01:04.704113",
+    "text": "Claustre <jats:title>Abstract</jats:title><jats:p>Characterizing phytoplankton distribution and dynamics in the world's open oceans requires in situ observations over a broad range of space and time scales.",
+    "predicted_label": "secondaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-12T02:01:04.727292",
+    "text": "In addition to temperature/salinity measurements, Biogeochemical‐Argo (BGC‐Argo) profiling floats are capable of autonomously observing at high‐frequency bio‐optical properties such as the chlorophyll fluorescence, a proxy of the chlorophyll <jats:italic>a</jats:italic> concentration (Chl<jats:italic>a</jats:italic>), the particulate backscattering coefficient (b<jats:sub>bp</jats:sub>), a proxy of the stock of particulate organic carbon, and the light available for photosynthesis.",
+    "predicted_label": "secondaire",
+    "confidence": 0.54
+  },
+  {
+    "timestamp": "2025-07-12T02:01:04.753456",
+    "text": "We analyzed an unprecedented BGC‐Argo database of more than 8,500 multivariable profiles collected in various oceanic conditions, from subpolar waters to subtropical gyres.",
+    "predicted_label": "secondaire",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-07-12T02:01:04.792171",
+    "text": "We distinguish two main contrasted situations: (1) concomitant changes in Chl<jats:italic>a</jats:italic> and b<jats:sub>bp</jats:sub> that correspond to actual variations in phytoplankton biomass, e.g., in subpolar regimes; (2) a decoupling between the two variables attributed to photoacclimation or changes in the relative abundance of nonalgal particles, e.g., in subtropical regimes.",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-12T02:01:04.815375",
+    "text": "The variability in the b<jats:sub>bp</jats:sub>:Chl<jats:italic>a</jats:italic> ratio in the surface layer appears to be essentially influenced by the type of particles and by photoacclimation processes.",
+    "predicted_label": "primaire",
+    "confidence": 0.5
+  },
+  {
+    "timestamp": "2025-07-12T10:54:22.182296",
+    "text": "Ellipsoids\nare shown at the 50 % probability level",
+    "predicted_label": "secondaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-12T10:54:22.237050",
+    "text": "In situ IR spectroscopy of 2·thf at 60\n\n8\n\nC in the range of\nn˜ = 1700 to 2350 cm(cid:2)1",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-12T10:54:22.267422",
+    "text": "92 % (\n\ntheoretical proportion\nof CO2 in 2·toluene 19",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-12T10:54:22.335331",
+    "text": "Although this species\ncould not be isolated,\n\nit was possible to generate mono\ninserted [Ce3(Me2pz)9(Me2pz·CO2)3(thf)] (\n\n3) in moderate\nyields of 46 % (Scheme 4)",
+    "predicted_label": "primaire",
+    "confidence": 0.57
+  },
+  {
+    "timestamp": "2025-07-12T10:54:22.359399",
+    "text": "Ellip\nsoids are shown at the 50 % probability level",
+    "predicted_label": "secondaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-12T10:54:22.378611",
+    "text": "In accordance with the crystal\nstructure of cluster 5,\n\nDRIFTS measurements show strong\nabsorption bands for both the C(cid:2)O single bonds (n˜ = 1250–\n1350 cm(cid:2)1) and C(cid:2)O double bonds (n˜ = 1600–1750 cm(cid:2)1)",
+    "predicted_label": "primaire",
+    "confidence": 0.51
+  },
+  {
+    "timestamp": "2025-07-12T10:54:22.464158",
+    "text": "99 %\n\nfor\n\n\n10 molecules\ntoluene and\n\n12 molecules of CO\n\n\n2 eliminated from\n[Ce4(Me2pz·CO2)12]·10 toluene (5·toluene)",
+    "predicted_label": "secondaire",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-07-12T10:54:22.501745",
+    "text": "Ellipsoids are\nshown at the 50 % probability level",
+    "predicted_label": "secondaire",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-07-12T11:25:00.114438",
+    "text": "C)\n\nSCXRD structure\nof [1*-CO2]@ (cation and hydrogen atoms omitted for clarity,\n\nellipsoids\nare drawn at the 50 % probability level) Selected bond lengths [pm]:\nAl–O1 184",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-12T11:25:00.137249",
+    "text": "B)\n\nRepresentative\nSCXRD structures of 1,2-adducts (\n\ncation and hydrogens omitted for\nclarity; ellipsoids are drawn at the 50 % probability level)",
+    "predicted_label": "secondaire",
+    "confidence": 0.51
+  },
+  {
+    "timestamp": "2025-07-12T11:25:00.177030",
+    "text": "05 % mol catalyst loading of either [PPh4][1] or [Li(thf)4][1\nthf] (abbreviated as [Li][1])",
+    "predicted_label": "primaire",
+    "confidence": 0.53
+  },
+  {
+    "timestamp": "2025-07-12T11:25:00.198365",
+    "text": "05 mol % of [PPh4][1] in [D8]THF, pDMA-\n\nBA is\nhydroborated only slowly (20 % conversion after 2 h,\n\nFig\nure 6 D, light blue curve)",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  },
+  {
+    "timestamp": "2025-07-12T11:57:19.858374",
+    "text": "Kirsch <jats:title>Abstract</jats:title><jats:p>A new synthetic route toward the tetrazole core is described, which is based on a general fragmentation pattern that was found in a range of compounds featuring geminal diazido units.",
+    "predicted_label": "secondaire",
+    "confidence": 0.53
+  },
+  {
+    "timestamp": "2025-07-12T11:57:19.944024",
+    "text": "The initial oxidative diazidation reaction with iodine and sodium azide under mild conditions is followed by the thermal fragmentation under microwave irradiation, leading to the tetrazole products.",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-12T12:24:23.040953",
+    "text": "Kirsch <jats:title>Abstract</jats:title><jats:p>A new synthetic route toward the tetrazole core is described, which is based on a general fragmentation pattern that was found in a range of compounds featuring geminal diazido units.",
+    "predicted_label": "secondaire",
+    "confidence": 0.53
+  },
+  {
+    "timestamp": "2025-07-12T12:24:23.080943",
+    "text": "The initial oxidative diazidation reaction with iodine and sodium azide under mild conditions is followed by the thermal fragmentation under microwave irradiation, leading to the tetrazole products.",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-12T12:29:45.941908",
+    "text": "Kirsch <jats:title>Abstract</jats:title><jats:p>A new synthetic route toward the tetrazole core is described, which is based on a general fragmentation pattern that was found in a range of compounds featuring geminal diazido units.",
+    "predicted_label": "secondaire",
+    "confidence": 0.53
+  },
+  {
+    "timestamp": "2025-07-12T12:29:45.980930",
+    "text": "The initial oxidative diazidation reaction with iodine and sodium azide under mild conditions is followed by the thermal fragmentation under microwave irradiation, leading to the tetrazole products.",
+    "predicted_label": "primaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.074114",
+    "text": "A yield of\n87 %\n\nwas determined by titration of an aliquot of the filtrate with\n0",
+    "predicted_label": "secondaire",
+    "confidence": 0.51
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.278915",
+    "text": "The filtrate contained the product (yield: 34 %)",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.328258",
+    "text": "40 g of\ncolorless crystals of 1",
+    "predicted_label": "primaire",
+    "confidence": 0.53
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.347941",
+    "text": "5-oTol (88 %\n\nwith respect to the initially used\n2-oTol)",
+    "predicted_label": "secondaire",
+    "confidence": 0.51
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.370512",
+    "text": "Acidimetric titration of an aliquot gave a yield of\n33 %",
+    "predicted_label": "primaire",
+    "confidence": 0.57
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.391638",
+    "text": "0 g of colorless,\nair- and moisture-sensitive crystals of 2-tBu (21",
+    "predicted_label": "primaire",
+    "confidence": 0.54
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.419087",
+    "text": "5 %\n\nrelative to the\ninitially used tert-\n\nbutyl\ncalcd: 3\n\n11",
+    "predicted_label": "secondaire",
+    "confidence": 0.58
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.575733",
+    "text": "09 g, 99 mmol)\n\nwas slowly added to the\nmixture in portions of 2 mL",
+    "predicted_label": "secondaire",
+    "confidence": 0.57
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.618279",
+    "text": "The filtrate was cooled to room\ntemperature and then dioxane (13 mL, 122 mmol)\n\nwas slowly\nadded in 2 mL portions",
+    "predicted_label": "primaire",
+    "confidence": 0.57
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.645341",
+    "text": "91 g of colorless\ncrystals of 2-o-Tol (15",
+    "predicted_label": "primaire",
+    "confidence": 0.54
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.682688",
+    "text": "2 % with respect to the initially used o-\n\ntolyl\nbromide); alkalinity: calcd: 256",
+    "predicted_label": "secondaire",
+    "confidence": 0.51
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.773761",
+    "text": "1 g of 3-Ph (19 %\n\nrelative to ini\ntially used phenylmagnesium bromide solution); alkalinity: calcd:\n221",
+    "predicted_label": "primaire",
+    "confidence": 0.51
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.851403",
+    "text": "5’-C2SiMe3 (69 %\n\nrelative to the initially\nused trimethylsilylacetylene);\n2\n\n79",
+    "predicted_label": "secondaire",
+    "confidence": 0.54
+  },
+  {
+    "timestamp": "2025-07-12T22:01:13.959454",
+    "text": "6 mmol) in a mixture of THF (10 mL)\n\nand diox\nane (4",
+    "predicted_label": "primaire",
+    "confidence": 0.52
+  }
+]
